@@ -1,3 +1,4 @@
 ECHO ist eingeschaltet (ON).
 This is Test1
 This is second line
+This is third line
